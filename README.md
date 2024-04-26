@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gaël Brossard.
+Hi ! :wave: My name is Gaël Brossard.
 ======================================================================================================================================
-Software engineering student
+I'm a Software Engineering student
 ----------------------------
 * 🌍  I'm based in Nancy, France
-* 🖥️  See my portfolio at [My portfolio](http://shyveee.github.io/portfolio/)
+* 🖥️  See my portfolio here: [Portfolio](http://shyveee.github.io/portfolio/)
 * ✉️  You can contact me at [gaelbrossard@orange.fr](mailto:gaelbrossard@orange.fr)
-* 🧠  I'm learning Java Spring Framework
+* 🧠  I'm currently learning Angular and Spring Boot as part of my internship at Equasens.
 
 ### Skills
 
