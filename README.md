@@ -3,9 +3,9 @@ Hi ! :wave: My name is Gaël Brossard.
 I'm a Software Engineering student
 ----------------------------
 * 🌍  I'm based in Nancy, France
-* 🖥️  See my portfolio here: [Portfolio](http://shyveee.github.io/portfolio/)
+* 🖥️  You can check my portfolio here: [Portfolio](http://shyveee.github.io/portfolio/)
 * ✉️  You can contact me at [gaelbrossard@orange.fr](mailto:gaelbrossard@orange.fr)
-* 🧠  I'm currently learning Angular and Spring Boot as part of my internship at Equasens.
+* 🧠  I'm currently learning Angular and Spring Boot as part of my internship at [Equasens](https://equasens.com/le-groupe/nos-divisions/pharmagest/).
 
 ### Skills
 
