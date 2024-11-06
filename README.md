@@ -5,7 +5,7 @@ I'm a Software Engineering student
   * 🌍  Based in Nancy, France
   * 🖥️  You can check my portfolio here: [Portfolio](https://shyveee.github.io/portfolio_v2/)
   * ✉️  You can contact me at [gaelbrossard@orange.fr](mailto:gaelbrossard@orange.fr)
-  * 🧠  I'm currently focused on improving mu knowledge in Pentesting and Linux.
+  * 🧠  I'm currently focused on improving my knowledge in Pentesting and Linux.
 
 
 ## 🌐 Socials:
