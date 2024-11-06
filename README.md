@@ -2,10 +2,10 @@ Hi ! :wave: My name is Gaël B.
 ======================================================================================================================================
 I'm a Software Engineering student
 ----------------------------
-  * 🌍  I'm based in Nancy, France
+  * 🌍  Based in Nancy, France
   * 🖥️  You can check my portfolio here: [Portfolio](https://shyveee.github.io/portfolio_v2/)
   * ✉️  You can contact me at [gaelbrossard@orange.fr](mailto:gaelbrossard@orange.fr)
-  * 🧠  I'm currently learning Angular and Spring Boot as part of my internship at [Equasens](https://equasens.com/le-groupe/nos-divisions/pharmagest/).
+  * 🧠  I'm currently focused on improving mu knowledge in Pentesting and Linux.
 
 
 ## 🌐 Socials:
