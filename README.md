@@ -1,6 +1,6 @@
-Hi ! :wave: My name is Gaël B.
+Hi ! My name is Gaël B 👋
 ======================================================================================================================================
-I'm a Software Engineering student
+I'm a Cybersecurity Engineering student
 ----------------------------
   * 🌍  Based in Nancy, France
   * 🖥️  You can check my portfolio here: [Portfolio](https://shyveee.github.io/portfolio_v2/)
